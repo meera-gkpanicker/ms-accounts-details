@@ -14,10 +14,10 @@ CREATE TABLE anz.account (
 );
 
 INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '123456', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 12.45 );
-INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '123456', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 12.45 );
-INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '123456', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 12.45 );
-INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '123456', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 12.45 );
-INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '123456', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 12.45 );
+INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '585309209', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 100.45 );
+INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '791066619', 'Savings', 'SGSavings 726', 'SGD', CURRENT_DATE, 700.45 );
+INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '321143048', 'Savings', 'AUSavings 933', 'AUD', CURRENT_DATE, 123456.45 );
+INSERT INTO anz.account (account_number, account_type, account_name, currency, balance_date, balance) VALUES ( '84725792', 'Current', 'AUCurrent591 726', 'AUD', CURRENT_DATE, 445677.45 );
 
 
 CREATE TABLE anz.account_transaction (

@@ -6,7 +6,7 @@ This project provides the following APIs and is developed using spring boot, gra
 2. An API that allows clients to retrieve transactions of an account
 
 ## Project Repo URL
-https://github.com/
+https://github.com/meera-gkpanicker/ms-accounts-details.git
 
 # Follow the below steps to build and run this application:
 
