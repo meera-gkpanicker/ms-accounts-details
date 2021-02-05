@@ -31,7 +31,8 @@ https://github.com/meera-gkpanicker/ms-accounts-details.git
 		
 
 2. Retrieve By AccountNumber:
-$ curl -X GET \
+
+        $ curl -X GET \
             http://localhost:8090/ms-accounts-details/accounts/123456 \
             -H 'cache-control: no-cache' \
             -H 'postman-token: bc17f4e5-8106-529f-3767-9af1bfcd0650'
